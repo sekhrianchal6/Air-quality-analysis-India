@@ -1,7 +1,6 @@
 # Air-quality-analysis-India
 
-Air quality index
-of India is a standard measure used to indicate
+Air quality index of India is a standard measure used to indicate
 the pollutant (so2, no2, rspm, spm. etc.) levels
 over a period. We developed a model to predict
 the air quality index based on historical data of
